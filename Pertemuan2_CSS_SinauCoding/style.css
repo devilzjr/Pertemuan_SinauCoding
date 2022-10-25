@@ -5,27 +5,30 @@ html {
 
 .container-content1 {
     background: url(HTMLLOGO.png);
-    background-size: 250px;
+    background-size: 285px;
     background-repeat: repeat-y;
     background-position: left;
     background-color: #ffa07a;
-    padding: 15;
+    height: 356px;
+    width: 1800px;
 }
 .container-content2 {
     background: url(CSSLOGO.png);
-    background-size: 250px;
+    background-size: 285px;
     background-repeat: repeat-y;
     background-position: right;
     background-color: #add8e6;
-    padding: 15;
+    height: 356px;
+    width: 1800px;
 }
 .container-content3 {
     background: url(JSLOGO.png);
-    background-size: 250px;
+    background-size: 285px;
     background-repeat: repeat-y;
     background-position: left;
     background-color: #fafad2;
-    padding: 15;
+    height: 356px;
+    width: 1800px;
 }
 .font-content{
     font-family: 'Noto Sans', sans-serif;
